@@ -1,0 +1,7 @@
+name: VanillaChunkTest
+version: 1.0-SNAPSHOT
+main: io.github.lexikiq.vanillachunktest.Main
+description: Testing crash with createVanillaChunkData
+author: lexikiq
+api-version: 1.16
+load: STARTUP
